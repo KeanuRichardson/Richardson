@@ -1,0 +1,16 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title>
+			'Vote Yes'
+		</title>
+	</head>
+	<body bgcolor=purple>
+		<p style="color:green">
+			<H1>
+				You Have Voted: "Do Not Raid Area 51"
+			</H1>
+		</p>
+	</body>
+</html>
